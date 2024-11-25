@@ -207,5 +207,4 @@ function isValidEnumValue(value, enumObject) {
 
 module.exports = {
     initWsServer,
-    setClientManagerWSS,
 };
